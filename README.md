@@ -1,4 +1,4 @@
-# Ved Piyush, PhD
+# Ved Piyush
 
 Senior Data Scientist at IBM specializing in the architecture of scalable AI systems that integrate statistical rigor with modern machine learning and generative AI capabilities.
 
